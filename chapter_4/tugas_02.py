@@ -87,7 +87,7 @@ class Asisten(Mahasiswa):
 # --- Demonstrasi ---
 
 # Inisialisasi Objek
-mhs1 = Mahasiswa("Safriamsah", 22, "Makassar", "10584110", "Informatika", 8)
+mhs1 = Mahasiswa("AAN ZAENAL", 22, "Makassar", "10584110", "Informatika", 8)
 mhs1.tambah_mk("Data Mining", 85)
 mhs1.tambah_mk("Machine Learning", 90)
 
